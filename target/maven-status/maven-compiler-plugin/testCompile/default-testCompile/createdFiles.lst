@@ -1,0 +1,6 @@
+SauceApp\Utils\BaseTools.class
+SauceApp\Configuration\SetupTearDown.class
+SauceApp\Pages\PageLogin.class
+SauceApp\Pages\PageProduit.class
+SauceApp\DataSet\Constante.class
+SauceApp\Suites\SuiteLogin.class
